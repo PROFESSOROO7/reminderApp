@@ -1,0 +1,40 @@
+.reminder-container{
+    border:2px solid black;
+    width:75%;
+    padding:2vh 2vw;
+    margin:0;
+    padding-left:2%;
+    background-image: linear-gradient(to left,hsl(210, 77%, 59%), hsl(210, 77%, 29%));
+    border-radius:1rem;
+    border: none;
+    box-shadow: 0 4px 12px hsla(210, 77%, 69%, .232);
+    box-sizing: border-box;
+    margin-bottom: 2%;
+}
+.title{
+ 
+}
+.duration{
+  
+}
+.date-created{
+    display: flex;
+    align-items: center;
+    gap:5px;
+}
+.icon{
+    cursor: pointer;
+}
+.edit-and-delete{
+    margin-left: auto;
+    padding: 20px;
+}
+.bottom{
+    display: flex;
+}
+.edit{
+    margin-right: 10px;
+}
+.delete{
+
+}
