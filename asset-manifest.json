@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reminderApp/static/css/main.d7861ca0.css",
+    "main.js": "/reminderApp/static/js/main.9b280067.js",
+    "static/media/sun.svg": "/reminderApp/static/media/sun.5e8ccfda315194ad86f1d44a18abd3e4.svg",
+    "index.html": "/reminderApp/index.html",
+    "static/media/edit.svg": "/reminderApp/static/media/edit.f37c7a7b025f5359d9a5a28e69d3f40a.svg",
+    "static/media/trash.svg": "/reminderApp/static/media/trash.c4202868940cd355b2898b9d92468402.svg",
+    "static/media/clock.svg": "/reminderApp/static/media/clock.a7da91d8bfcb5574e15b0c471c177459.svg",
+    "static/media/moon.svg": "/reminderApp/static/media/moon.5dfe65a4097ebaef74ec370f7651e860.svg",
+    "main.d7861ca0.css.map": "/reminderApp/static/css/main.d7861ca0.css.map",
+    "main.9b280067.js.map": "/reminderApp/static/js/main.9b280067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7861ca0.css",
+    "static/js/main.9b280067.js"
+  ]
+}
